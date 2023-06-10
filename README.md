@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a Data Science portfolio**
 
-- 🌱 I’m currently learning **C ++**
+- 🌱 I’m currently learning **C ++**, **AWS** and **DevOps**
 
 - 👯 I’m looking to collaborate on **Data Science or Finance projects**
 
