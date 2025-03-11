@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeevan Jose</h1>
 <h3 align="center">A passionate Data Scientist in London</h3>
 
-- 🔭 I’m currently working on **building a Data Science portfolio**
+- 🔭 I’m currently working on **applying Data Science to Computational Physics**
 
-- 🌱 I’m currently learning **PyTorch**, **C ++**, **AWS** and **DevOps**
+- 🌱 I’m currently using **Tensorflow**, **PyTorch**, **AWS** and **DevOps**
 
-- 👯 I’m looking to collaborate on **Data Science or Finance projects**
+- 👯 I’m looking to collaborate on **Data Science or Game Dev projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jeevan345](https://github.com/jeevan345)
+- 👨‍💻 My projects are available at [https://github.com/jeevan345](https://github.com/jeevan345)
 
 - 💬 Ask me about **python or Data Science related**
 
